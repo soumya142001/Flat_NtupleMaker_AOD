@@ -9,7 +9,7 @@ ConfFile_cfg.py is the driver script. The AOD files on which the analyzer code s
 The output of the driver script is the flat root tree file (.root) <br>
 
 The list of commands one should follow to arrive at this output .root file are: <br>
-$ cd plugins <br>
-$ scram b (This command will compile the .cc analyzer code and will give errors if the code has any syntax errors) <br>
-$ cd ../python <br>
-$ cmsRun ConfFile_cfg.py (This command will run the driver .py file. Any errors that show up most of the time are runtime errors) <br>
+`cd plugins` <br>
+`scram b` (This command will compile the .cc analyzer code and will give errors if the code has any syntax errors) <br>
+`cd ../python` <br>
+`cmsRun ConfFile_cfg.py` (This command will run the driver .py file. Any errors that show up most of the time are runtime errors) <br>
