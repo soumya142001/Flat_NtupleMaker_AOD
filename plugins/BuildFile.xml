@@ -1,0 +1,139 @@
+<use name="DataFormats/TrackReco"/>
+<use name="FWCore/Framework"/>
+<use name="FWCore/ParameterSet"/>
+<use name="FWCore/PluginManager"/>
+
+<use name="DataFormats/TrackReco"/>
+<use name="FWCore/Framework"/>
+<use name="FWCore/ParameterSet"/>
+<use name="FWCore/PluginManager"/>                                                                                                                                                                        
+                                                                                                                                                                                                          
+//From Parijat                                                                                                                                                                                            
+<use name="FWCore/Framework"/>
+<use name="FWCore/PluginManager"/>
+<use name="FWCore/ParameterSet"/>
+<use name="FWCore/Common"/>
+<use name="DataFormats/TrackReco"/>
+<use name="DataFormats/MuonReco"/>
+<use name="DataFormats/Common"/>
+<use name="DataFormats/Candidate"/>
+<use name="DatFormats/PatCandidates"/>
+<use name="DataFormats/RecoCandidate"/>
+<use name="CommonTools/UtilAlgos"/>
+<use name="PhysicsTools/UtilAlgos"/>
+<use name="DataFormats/HepMCCandidate"/>                                                                                                                                                                  
+                                                                                                                                                                                                          
+//From DataFormats/EGammaCandidates                                                                                                                                                                       
+                                                                                                                                                                                                          
+<use name="DataFormats/Candidate"/>
+<use name="DataFormats/CLHEP"/>
+<use name="DataFormats/Common"/>
+<use name="DataFormats/EgammaReco"/>
+<use name="DataFormats/CaloRecHit"/>
+<use name="DataFormats/CaloTowers"/>
+<use name="DataFormats/Math"/>
+<use name="DataFormats/RecoCandidate"/>
+<use name="DataFormats/TrackReco"/>
+<use name="DataFormats/TrackerRecHit2D"/>
+<use name="DataFormats/TrackingRecHit"/>
+<use name="DataFormats/VertexReco"/>
+<use name="DataFormats/GsfTrackReco"/>
+<use name="DataFormats/GeometryCommonDetAlgo"/>
+<use name="FWCore/MessageLogger"/>
+<use name="DataFormats/GeometryVector"/>  
+
+//From EGamma BuildXml                                                                                                                                                                                    
+<use name="CommonTools/Egamma"/>
+<use name="FWCore/ServiceRegistry"/>
+<use name="FWCore/Utilities"/>
+<use name="FWCore/ParameterSet"/>
+<use name="Geometry/CaloTopology"/>
+<use name="CondFormats/GBRForest"/>
+<use name="RecoEcal/EgammaCoreTools"/>
+<use name="DataFormats/Common"/>
+<use name="DataFormats/EgammaCandidates"/>
+<use name="DataFormats/PatCandidates"/>
+<use name="DataFormats/EgammaReco"/>
+<use name="DataFormats/TrackReco"/>
+<use name="TrackingTools/IPTools"/>
+<use name="RecoEgamma/EgammaTools"/>
+<use name="DataFormats/EcalDetId"/>
+<use name="DataFormats/EcalRecHit"/>
+<use name="DataFormats/GsfTrackReco"/>
+<use name="DataFormats/Math"/>
+<use name="DataFormats/MuonReco"/>
+<use name="DataFormats/ParticleFlowCandidate"/>
+<use name="DataFormats/RecoCandidate"/>
+<use name="DataFormats/VertexReco"/>
+<use name="Geometry/CaloGeometry"/>
+<use name="TrackingTools/TransientTrack"/>
+<use name="clhep"/>
+<use name="root"/>
+<use name="rootcore"/>
+<use name="roottmva"/>                  
+
+
+//From PatCandidates                                                                                                                                                                                      
+<use name="boost"/>
+<use name="boost_regex"/>
+<use name="tbb"/>
+<use name="DataFormats/BTauReco"/>
+<use name="DataFormats/CLHEP"/>
+<use name="DataFormats/CaloTowers"/>
+<use name="DataFormats/Candidate"/>
+<use name="DataFormats/Common"/>
+<use name="DataFormats/EcalRecHit"/>
+<use name="DataFormats/EgammaCandidates"/>
+<use name="DataFormats/EgammaReco"/>
+<use name="DataFormats/GeometryCommonDetAlgo"/>
+<use name="DataFormats/GsfTrackReco"/>
+<use name="DataFormats/HLTReco"/>
+<use name="DataFormats/HepMCCandidate"/>
+<use name="DataFormats/JetMatching"/>
+<use name="DataFormats/JetReco"/>
+<use name="DataFormats/L1GlobalTrigger"/>
+<use name="DataFormats/L1Trigger"/>
+<use name="DataFormats/METReco"/>
+<use name="DataFormats/Math"/>
+<use name="DataFormats/MuonReco"/>
+<use name="DataFormats/ParticleFlowCandidate"/>
+<use name="DataFormats/Provenance"/>
+<use name="DataFormats/RecoCandidate"/>
+<use name="DataFormats/SiPixelDetId"/>
+<use name="DataFormats/SiStripDetId"/>
+<use name="DataFormats/TauReco"/>
+<use name="DataFormats/TrackReco"/>
+<use name="DataFormats/VertexReco"/>
+<use name="FWCore/Common"/>
+<use name="FWCore/MessageLogger"/>
+<use name="FWCore/ParameterSet"/>
+<use name="FWCore/Reflection"/>
+<use name="FWCore/Utilities"/>                
+
+//From DataFormats/TrackReco/BuildFile.xml                                                                                                                                                                
+                                                                                                                                                                                                          
+<use name="DataFormats/BeamSpot"/>
+<use name="DataFormats/Candidate"/>
+<use name="DataFormats/Common"/>
+<use name="DataFormats/DetId"/>
+<use name="DataFormats/ForwardDetId"/>
+<use name="DataFormats/GeometryVector"/>
+<use name="DataFormats/Math"/>
+<use name="DataFormats/MuonDetId"/>
+<use name="DataFormats/Scouting"/>
+<use name="DataFormats/SiPixelCluster"/>
+<use name="DataFormats/SiPixelDetId"/>
+<use name="DataFormats/SiStripCluster"/>
+<use name="DataFormats/SiStripDetId"/>
+<use name="DataFormats/TrackCandidate"/>
+<use name="DataFormats/TrackerCommon"/>
+<use name="DataFormats/TrackingRecHit"/>
+<use name="DataFormats/TrajectorySeed"/>
+<use name="DataFormats/TrajectoryState"/>
+<use name="FWCore/Utilities"/>
+<use name="clhepheader"/>
+<use name="rootmath"/>
+
+
+
+<flags EDM_PLUGIN="1"/>

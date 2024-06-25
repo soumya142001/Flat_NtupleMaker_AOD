@@ -1,0 +1,4 @@
+<bin file="test_catch2_*.cc" name="testEGamma_TreeEGamma_ntupleTP">
+  <use name="FWCore/TestProcessor"/>
+  <use name="catch2"/>
+</bin>
